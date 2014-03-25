@@ -323,7 +323,7 @@ public class InCallActivity extends Activity {
     @Override
     public boolean dispatchTouchEvent(MotionEvent event) { // On touch.
         if (InCallPresenter.getInstance().getProximitySensor().isScreenOffByProximity())
-            return true; 
+            return true;
 
         return super.dispatchTouchEvent(event);
     }
