@@ -232,8 +232,8 @@ public final class AccelerometerListener {
     }
 
     private int getFlipAction(){
-        int flipAction = Settings.System.getInt(mContext.getContentResolver(),
-                Settings.System.FLIP_ACTION_KEY,0);
+        int flipAction = Settings.PAC.getInt(mContext.getContentResolver(),
+                Settings.PAC.FLIP_ACTION_KEY,0);
         return flipAction;
     }
 
