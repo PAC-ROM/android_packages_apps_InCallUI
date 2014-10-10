@@ -16,6 +16,6 @@
   limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="description_target_speaker">Answer on Speakerphone</string>
-  <string name="description_direction_down">Slide down for <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+  <string name="description_target_speaker">在扬声器上应答</string>
+  <string name="description_direction_down">向下滑动以<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>。</string>
 </resources>
