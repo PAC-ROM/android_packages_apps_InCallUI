@@ -15,4 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_target_speaker">Atender no viva-Voz</string>
+  <string name="description_direction_down">Deslize para baixo para <xliff:g id="target_description" example="Unlock"> %s </xliff:g>.</string>
+</resources>
